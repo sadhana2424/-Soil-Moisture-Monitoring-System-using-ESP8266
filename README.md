@@ -78,8 +78,8 @@ CSS
 ## 🖼 Hardware Setup
 Example:
 📸 Web Page Preview
-(<img width="960" height="778" alt="soilsensor" src="https://github.com/user-attachments/assets/e2aca080-c2d1-45d0-875f-5ea755cc87f1" />
-)
+(ss1.png)
+(ss2.png)
 
  ## 👩‍💻 Developed By
 
