@@ -10,18 +10,14 @@ Help users identify when plants need watering.
 Learn IoT concepts using ESP8266 and Web Server.
 
 ## 🛠 Components Required
-ESP8266 NodeMCU
-Soil Moisture Sensor
-Breadboard
-Jumper Wires
-USB Cable
+ESP8266 NodeMCU,
+Soil Moisture Sensor,
+Breadboard,
+Jumper Wires,
+USB Cable,
 Wi-Fi Connection
 
-## 🔌 Circuit Connections
-Soil Moisture Sensor	ESP8266
-VCC	3.3V
-GND	GND
-AO	A0
+
 
 ## ⚙️ Working Principle
 The Soil Moisture Sensor measures the moisture level in the soil.
@@ -31,10 +27,10 @@ A web server running on the ESP8266 displays the moisture level.
 Users can access the web page through any device connected to the same Wi-Fi network.
 
 ## 🌐 Web Interface Features
-Real-time Soil Moisture Value
-Moisture Percentage
-Soil Status (Dry / Moist / Wet)
-Responsive HTML & CSS Design
+Real-time Soil Moisture Value,
+Moisture Percentage,
+Soil Status (Dry / Moist / Wet),
+Responsive HTML & CSS Design,
 Auto Refresh Data
 
 ## ▶️ How to Run
@@ -55,24 +51,24 @@ Moisture (%)	Soil Condition
 0–39%	🌵 Dry
 
 ## 🌾 Applications
-Smart Irrigation
-Home Gardening
-Greenhouse Monitoring
-Agriculture Automation
-Plant Health Monitoring
+Smart Irrigation,
+Home Gardening,
+Greenhouse Monitoring,
+Agriculture Automation,
+Plant Health Monitoring,
 
 ## 🚀 Features
-Real-time Monitoring
-Wi-Fi Enabled
-Web-Based Dashboard
-Easy Hardware Setup
-Beginner-Friendly IoT Project
+Real-time Monitoring,
+Wi-Fi Enabled,
+Web-Based Dashboard,
+Easy Hardware Setup,
+Beginner-Friendly IoT Project,
 Responsive Web Interface
 
 ## 💻 Software Used
-Arduino IDE
-ESP8266 Board Package
-HTML
+Arduino IDE,
+ESP8266 Board Package,
+HTML,
 CSS
 
 ## 🖼 Hardware Setup
