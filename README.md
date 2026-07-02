@@ -65,21 +65,26 @@ Easy Hardware Setup,
 Beginner-Friendly IoT Project,
 Responsive Web Interface
 
+## 🖼 Hardware Setup
+Example:
+📸 Web Page Preview
+
+
+(<img width="694" height="916" alt="ss1" src="https://github.com/user-attachments/assets/b40c17f7-4a10-44d6-8af9-34a69d21e751" />
+)
+
+
+
+(<img width="684" height="909" alt="ss2" src="https://github.com/user-attachments/assets/f3c0ac1b-f0d4-4dd2-863f-92889d2d291e" />
+)
+
 ## 💻 Software Used
 Arduino IDE,
 ESP8266 Board Package,
 HTML,
 CSS
 
-## 🖼 Hardware Setup
-Example:
-📸 Web Page Preview
-(<img width="694" height="916" alt="ss1" src="https://github.com/user-attachments/assets/b40c17f7-4a10-44d6-8af9-34a69d21e751" />
-)
 
-
-(<img width="684" height="909" alt="ss2" src="https://github.com/user-attachments/assets/f3c0ac1b-f0d4-4dd2-863f-92889d2d291e" />
-)
 
  ## 👩‍💻 Developed By
 
